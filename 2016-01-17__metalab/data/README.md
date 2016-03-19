@@ -1,0 +1,2 @@
+- wage_data.csv: https://cran.r-project.org/web/packages/ISLR/index.html
+- AT90AKC0000800100hour.1-1-1988.31-12-2012: http://www.eea.europa.eu/data-and-maps/data/airbase-the-european-air-quality-database-8
