@@ -9,3 +9,7 @@ Note that the slides are only one part of a presentation.
   - [PyCon SK](https://pycon.sk/en/index.html)
     - Scientific Computing with Python (An Introduction to Python's 
   Scientific Stack)
+
+2016-01:
+  - [metalab](https://metalab.at/)/[pyug.at](https://pyug.at/Treffen/2016-01)
+    - An Introduction to pandas
