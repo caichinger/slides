@@ -44,7 +44,8 @@ the required packages:
 - [Anaconda](http://continuum.io/downloads) (cross-platform) or
 - [WinPython](http://winpython.github.io/) (only Windows, no installation 
 required).
-Choose the lastest Python 3 version. Both ship with all required packages. 
+Choose the lastest Python 3 version. Both ship with (almost) all required 
+packages (please do `conda install seaborn scikit-learn`). 
 
 If you already use conda, you can create (and activate) a suitable environment 
 like so (`anaconda3/bin` needs to be in your `PATH` variable):
