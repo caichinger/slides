@@ -6,6 +6,10 @@ Note that the slides are only one part of a presentation.
 
 ---
 
+2017-04:
+  - [Grazer Linuxtage](https://linuxtage.at/programm/)
+    - Eine Einführung in das Scientific Computing Ökosystem
+
 2016-12:
   - [Vienna Data Science Group](http://viennadatasciencegroup.at/)
     - A quick glance at Python's Scientific Stack
