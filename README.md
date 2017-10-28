@@ -6,6 +6,11 @@ Note that the slides are only one part of a presentation.
 
 ---
 
+2017-10:
+  - [PyCon UK](http://2017.pyconuk.org/schedule/)
+    - Implementing Custom Containers
+    - Testing in Scientific/Engineering Applications
+
 2017-04:
   - [Grazer Linuxtage](https://linuxtage.at/programm/)
     - Eine Einführung in das Scientific Computing Ökosystem
